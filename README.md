@@ -1,4 +1,4 @@
-#<p align="center" fontSize="60px">Variaveis de Tipos</p>
+<h1 align="center" fontSize="60px">Variaveis de Tipos</h1>
 Exemplo:
 
 ![tipos](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/5706b338-7803-4489-8af9-0021bcf74929)
