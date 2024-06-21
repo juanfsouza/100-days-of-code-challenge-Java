@@ -1,4 +1,4 @@
-<h1 align="center" fontSize="60px">100-days-of-code-challenge-Java</h1>
+<h1 align="center">100-days-of-code-challenge-Java</h1>
 
 <div align="center">
   
