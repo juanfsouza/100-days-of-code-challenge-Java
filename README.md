@@ -16,12 +16,12 @@ Um exemplo simples de como usar um loop for para percorrer e imprimir os element
 </br>
 
 ![Screenshot_8](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/6328565f-970d-4302-b171-660ae6a3757c)
-
+</br>
 Exemplo de herança:
 </br>
 
 ![Screenshot_9](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/841af07a-3079-44ed-b27f-f7cfc65dd1d4)
-
+</br>
 Usando o JDK para compilar:
 </br>
 
