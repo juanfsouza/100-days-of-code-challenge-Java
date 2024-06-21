@@ -49,3 +49,5 @@ TAREFAS FEITAS NO DIA 1:
 ![Screenshot_12](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/d12535c4-f200-4d46-9c35-06f43c9b4fb6)
 
 </div>
+
+![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/dd686f3b-044b-4508-898c-4650fe906cf5)
