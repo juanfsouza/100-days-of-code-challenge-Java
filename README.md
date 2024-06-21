@@ -36,9 +36,10 @@ Exemplo de herança:
 Usando o JDK para compilar:
 </br>
 
+Resumindo tarefas feitas Check
+
 ![Screenshot_10](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/ed15a78c-760d-4b9a-89f3-5e4b70dbab93)
 
-Resumindo tarefas feitas Check
 ![Screenshot_12](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/d12535c4-f200-4d46-9c35-06f43c9b4fb6)
 
 ![Screenshot_13](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/9e041aa8-dc39-423c-82c7-1ccd0e4b6652)
