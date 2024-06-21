@@ -1,6 +1,10 @@
 <h1 align="center" fontSize="60px">100-days-of-code-challenge-Java</h1>
 
-<div align="center">![Screenshot_11](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/55cdae0c-88d9-4b46-8cbe-565f7d41013a)</div>
+<div align="center">
+  
+![Screenshot_11](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/55cdae0c-88d9-4b46-8cbe-565f7d41013a)
+
+</div>
 
 <h2 align="center">Variaveis de Tipos</h2>
 <div align="center">
