@@ -2,7 +2,7 @@
 
 ![Screenshot_11](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/55cdae0c-88d9-4b46-8cbe-565f7d41013a)
 
-<h2 align="center" fontSize="60px">Variaveis de Tipos</h2>
+<h2>Variaveis de Tipos</h2>
 <div align="center">
 Existem tipos "Byte, Short, Int, Long" cada um representa uma quantidade de numeros que podem ser guardado na variavel exemplo na imagem abaixo:
 </br>
