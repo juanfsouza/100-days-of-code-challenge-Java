@@ -6,6 +6,8 @@
 
 </div>
 
+![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/90c2c450-b7d3-49f2-8792-1585ca496ab6)
+
 <h2 align="center">Variaveis de Tipos</h2>
 <div align="center">
 Existem tipos "Byte, Short, Int, Long" cada um representa uma quantidade de numeros que podem ser guardado na variavel exemplo na imagem abaixo:
