@@ -18,8 +18,8 @@ Existem tipos "Byte, Short, Int, Long" cada um representa uma quantidade de nume
 </br>
 
 ![Screenshot_6](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/54fa5e86-a6f6-4d8b-a8f5-47200328d490)
-Exemplo de Public Private e Protect:
 </br>
+Exemplo de Public Private e Protect:
 
 ![Screenshot_7](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/96768716-0753-4de6-8772-1ee3b26c9e24)
 
