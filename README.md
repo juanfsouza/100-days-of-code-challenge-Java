@@ -38,7 +38,7 @@ Usando o JDK para compilar:
 
 ![Screenshot_10](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/ed15a78c-760d-4b9a-89f3-5e4b70dbab93)
 
-Resumindo tarefas feitas Check
+TAREFAS FEITAS NO DIA 1:
 </br>
 
 ![Screenshot_13](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/9e041aa8-dc39-423c-82c7-1ccd0e4b6652)
