@@ -107,5 +107,46 @@ INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Bob', 'bob@gmail.com
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
 ```
+<div align="center">
+	
+![Screenshot_2](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/c8eec110-8349-49a4-bb5c-1f230740e692)
+
+![Screenshot_3](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/8d623214-9a2d-4af4-9b0d-b3a99640d194)
+
+![Screenshot_4](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/9b1a20d3-4dba-47fd-a38d-6e84e158b69c)
+
+![Screenshot_5](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/bfdce727-b199-46c6-ae67-bb1e75fa318d)
+
+![Screenshot_6](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/70095506-0a43-4688-8914-8f5c065dec84)
+
+![Screenshot_7](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/d203754f-e26d-4826-973d-aeef6e46c995)
+
+![Screenshot_8](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/d43ad880-c700-4cd0-9716-b019e6a9cf78)
+
+![Screenshot_9](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/71e95d43-bbfe-4cf9-8ffe-66adb925ac07)
+
+![Screenshot_10](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/bb6ffdf0-c519-41a8-9eec-42a919b2c756)
+
+![Screenshot_11](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/1dec4252-0fbc-4865-aa15-6cb67da043f6)
+
+![Screenshot_12](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/330a7131-3250-4fe4-9880-1763cef2f2f5)
+
+![Screenshot_13](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/69b14c38-5741-4c87-85c8-204c2088e89d)
+
+![Screenshot_14](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/f624d100-0c31-4dd1-9fcd-e33061c23a0d)
+
+![Screenshot_15](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/1cce7bf1-60f2-4979-9ac9-90b5eb7e1b7d)
+
+![Screenshot_17](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/30f418bf-7130-4c76-a18c-758c6b7b927e)
+
+![Screenshot_18](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/2b150c8d-c832-4c92-82ad-79cd116509d6)
+
+<h3>O que Aprendi hoje</h3>
+![Screenshot_19](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/4e579659-105f-42b4-b982-55f081af2e61)
+
+![Screenshot_20](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/967d2d82-4528-4efe-9155-55e72ebf9e45)
+
+</div>
+
 
 
