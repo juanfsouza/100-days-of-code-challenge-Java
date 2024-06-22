@@ -80,7 +80,7 @@ Configuração do Maven Resources Plugin
 
 <h3>Configurações do banco de dados</h3>
 
-# Dados de conexão com o banco H2
+Dados de conexão com o banco H2
 
 ```
 spring.datasource.url=jdbc:h2:mem:testdb
