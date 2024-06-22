@@ -67,7 +67,7 @@ Um pequeno sistema (API REST) de usuários e departamentos, com os seguintes cas
 
 </div>
 
-<h3>Trechos de código para copiar</h3>
+<h3>Trechos de código</h3>
 
 Configuração do Maven Resources Plugin
 
