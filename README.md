@@ -51,3 +51,60 @@ TAREFAS FEITAS NO DIA 1:
 </div>
 
 ![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/f50ee4af-cbcd-44e6-994a-712f5d3237d5)
+
+<h3>Visão geral do sistema</h3>
+Um pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
+- Buscar todos usuários
+- Buscar um usuário pelo seu id
+- Inserir um novo usuário
+
+<div align="center">
+  
+![Screenshot_21](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/4f1404b7-974c-4db4-8a21-1eb3abc580e3)
+
+![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/55099c5c-b1a5-4d22-879d-7a85f9dad7e7)
+
+</div>
+
+<h3>Trechos de código para copiar</h3>
+
+Configuração do Maven Resources Plugin
+
+```
+<plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-resources-plugin</artifactId>
+	<version>3.1.0</version>
+</plugin>
+```
+
+<h3>Configurações do banco de dados</h3>
+
+# Dados de conexão com o banco H2
+
+```
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.username=sa
+spring.datasource.password=
+
+# Configuração do cliente web do banco H2
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2-console
+
+# Configuração para mostrar o SQL no console
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+```
+<h3>SQL CODIGO USADO</h3>
+
+```
+INSERT INTO tb_department(name) VALUES ('Gestão');
+INSERT INTO tb_department(name) VALUES ('Informática');
+
+INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Maria', 'maria@gmail.com');
+INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Bob', 'bob@gmail.com');
+INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.com');
+INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
+```
+
+
