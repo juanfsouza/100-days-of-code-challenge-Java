@@ -157,5 +157,7 @@ INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com
 
 ![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/d61fe51a-c1e1-4424-ba13-0ca60ae6a7e7)
 
+![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/fdf2b505-66f2-4927-9a52-03e26b982ddf)
+
 </div>
 
