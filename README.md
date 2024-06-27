@@ -162,3 +162,6 @@ Funciona da seguinte forma iniciando vai digitar qualquer caracter e vai gera um
 
 </div>
 
+![341602393-f50ee4af-cbcd-44e6-994a-712f5d3237d5](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/684d7556-bf68-45ab-ba85-d88737b36b24)
+
+criar o backend da aplicação usando o framework Java Spring. Começaremos criando um projeto Spring Boot e configurando o banco de dados PostgreSQL. Em seguida, criar modelos de dados e controladores RESTful para gerenciar as operações CRUD da aplicação.
