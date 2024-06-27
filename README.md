@@ -150,6 +150,8 @@ INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com
 </div>
 
 <div align="center">
+	
+![341602393-f50ee4af-cbcd-44e6-994a-712f5d3237d5](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/dd0ff3a8-48ce-402a-aaa3-ebc39b2a75df)
 
 ![Screenshot_22](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/22938e7e-5f92-4626-86ae-4c772c1e1528)
 
@@ -165,3 +167,18 @@ Funciona da seguinte forma iniciando vai digitar qualquer caracter e vai gera um
 ![341602393-f50ee4af-cbcd-44e6-994a-712f5d3237d5](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/684d7556-bf68-45ab-ba85-d88737b36b24)
 
 criar o backend da aplicação usando o framework Java Spring. Começaremos criando um projeto Spring Boot e configurando o banco de dados PostgreSQL. Em seguida, criar modelos de dados e controladores RESTful para gerenciar as operações CRUD da aplicação.
+
+![Uploading 341602393-f50ee4af-cbcd-44e6-994a-712f5d3237d5.jpg…]()
+
+<div align="center">
+	
+![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/d1a8e0d0-4236-40fa-92ce-237d98c58797)
+
+![Screenshot_2](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/3d1efcb1-517f-4856-ac24-00e07407d421)
+
+![Screenshot_3](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/468710c4-c528-46c8-b87d-2d3a974ceefc)
+
+![Screenshot_4](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/0e3929dd-3216-49a7-8619-eaaea65e40d3)
+
+</div>
+
