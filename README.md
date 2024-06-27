@@ -170,9 +170,9 @@ criar o backend da aplicação usando o framework Java Spring. Começaremos cria
 
 ![341602393-f50ee4af-cbcd-44e6-994a-712f5d3237d5](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca)
 
-<h3>Construindo uma api com spring</h3>
-
 <div align="center">
+	
+<h3>Construindo uma api com spring</h3>
 	
 ![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/d1a8e0d0-4236-40fa-92ce-237d98c58797)
 
