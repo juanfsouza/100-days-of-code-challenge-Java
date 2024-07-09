@@ -247,7 +247,7 @@ criar o backend da aplicação usando o framework Java Spring. Começaremos cria
 
 ![Screenshot_31](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/bf4235d7-8a15-4565-bd52-17741a99e885)
 
-![343955496-a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/e6072878-58fe-4949-a7f8-2176afdb7d6f)
+![Screenshot_32](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/54e47a3f-848e-4dd3-bb48-2fee152c18ba)
 
 
 </div>
