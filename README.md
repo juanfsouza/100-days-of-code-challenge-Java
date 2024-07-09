@@ -183,6 +183,19 @@ criar o backend da aplicação usando o framework Java Spring. Começaremos cria
 <div align="center">
 
 Microservices com Java Spring
+
+</div>
+
+```
+Preparação Ambiente:
+- JDK 17
+- Maven
+- Postman
+- PgAdmin (Postgres)
+- IDE (IntelliJ, STS, Eclipse, etc)
+```
+
+<div align="center">
 	
 ![343955496-a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/ddcdad8b-aaab-4434-88ff-ae2ebb44d718)
 
