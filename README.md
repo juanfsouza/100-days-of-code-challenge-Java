@@ -180,6 +180,9 @@ criar o backend da aplicação usando o framework Java Spring. Começaremos cria
 
 </div>
 
+	
+![343955496-a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/ddcdad8b-aaab-4434-88ff-ae2ebb44d718)
+
 <div align="center">
 
 Microservices com Java Spring
@@ -196,8 +199,6 @@ Preparação Ambiente:
 ```
 
 <div align="center">
-	
-![343955496-a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/ddcdad8b-aaab-4434-88ff-ae2ebb44d718)
 
 ![Screenshot_2](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/68caf0a3-8806-4319-98ba-2249660ebc88)
 
