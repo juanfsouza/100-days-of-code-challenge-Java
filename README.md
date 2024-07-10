@@ -268,7 +268,7 @@ Preparação Ambiente:
 ![343955496-a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/e6a59f69-e416-4b04-a5aa-bfb8b80998f8)
 
 <div align="center">
-<h1>Projetinho Full stack com angular e Java e Spring</h1>
+<h1>Projetinho Full stack com angular, Java e Spring</h1>
 
 hoje foi so aplicação front-end com angular.
 
