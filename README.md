@@ -180,3 +180,88 @@ criar o backend da aplicação usando o framework Java Spring. Começaremos cria
 
 </div>
 
+	
+![343955496-a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/ddcdad8b-aaab-4434-88ff-ae2ebb44d718)
+
+<div align="center">
+
+<h1>Microservices com Java Spring</h1>
+
+</div>
+
+```
+Preparação Ambiente:
+- JDK 17
+- Maven
+- Postman
+- PgAdmin (Postgres)
+- IDE (IntelliJ, STS, Eclipse, etc)
+```
+
+<div align="center">
+
+![Screenshot_2](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/68caf0a3-8806-4319-98ba-2249660ebc88)
+
+![Screenshot_3](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/750cca61-d317-44fe-a7c8-9bac25ee7200)
+
+![Screenshot_4](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/04c96c24-cb24-4454-a778-fef493862a9e)
+
+![Screenshot_5](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/4c6476be-4623-46ff-8b70-e4f4f18db130)
+
+![Screenshot_6](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/c1c7f3f6-9432-4256-9385-b39925a86dff)
+
+![Screenshot_7](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/f4086983-f6dc-42f5-9ee0-1ea40e5aa4d1)
+
+![Screenshot_8](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/0fe3ae5e-621c-4bbc-ba3c-0a29c906edd6)
+
+![Screenshot_9](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/9aac6b8d-1411-4339-b7a6-e48b61f577d4)
+
+![Screenshot_10](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/15340d92-fe0b-478b-806b-548d079af7d2)
+
+![Screenshot_11](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/306ca70d-2dd8-4dff-b8e5-dc3621187cbb)
+
+![Screenshot_12](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/87f9671d-04b1-483d-8159-95f5c7409a87)
+
+![Screenshot_13](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/14bc4860-dad4-419c-baa7-f4440d2eb172)
+
+![Screenshot_14](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/8651182c-0bbf-4de6-aed3-7fa8e87e46a1)
+
+![Screenshot_15](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/9a061ff9-f89f-47c8-a91e-7d7b38bc9b68)
+
+![Screenshot_16](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/61a16015-385c-465d-9f10-97e4cd458892)
+
+![Screenshot_17](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/e7e9e74a-45b6-40f7-a316-4f0db7b7492a)
+
+![Screenshot_18](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/4c7710da-db4f-4ce4-8405-0ca98717c680)
+
+![Screenshot_19](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/f7950884-9914-4ed1-a997-ec0145c9b505)
+
+![Screenshot_20](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/4b128fe4-fbec-423c-9de8-aece0f168417)
+
+![Screenshot_21](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/f8bd7636-8920-443c-bbab-121ae33bb7fe)
+
+![Screenshot_22](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/56db9ba7-e058-4044-b5b7-f1f567137161)
+
+![Screenshot_23](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/a139733d-6868-4ee7-9a9e-af3ee0c60112)
+
+![Screenshot_24](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/b716c33b-3cc1-445c-bee5-27f8b8b1e0a8)
+
+![Screenshot_25](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/e9b8acaa-2329-4eca-a26a-9e61147634ec)
+
+![Screenshot_26](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/670cbfd8-2477-499a-b4b7-8cf4385f6baf)
+
+![Screenshot_27](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/653b0056-9ee1-451d-a769-43d112a206f2)
+
+![Screenshot_28](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/579b957d-819b-4af4-982d-bfdb0c2e2e6f)
+
+![Screenshot_29](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/f5f85235-5b37-4051-a0da-f32b642847b3)
+
+![Screenshot_30](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/494a6e4c-f708-4650-bc18-a537911eb9a5)
+
+![Screenshot_31](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/bf4235d7-8a15-4565-bd52-17741a99e885)
+
+![Screenshot_32](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/54e47a3f-848e-4dd3-bb48-2fee152c18ba)
+
+
+</div>
+
