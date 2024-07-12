@@ -276,4 +276,49 @@ hoje foi so aplicação front-end com angular.
 
 ![Screenshot_1](https://github.com/juanfsouza/100-days-of-code-challenge-Java/assets/88254614/e3b5ed6e-42ba-44cd-bc3d-68c5a176bb88)
 
+![343955496-a6ad4cbf-dbae-4bf4-a5c9-dfaf353e5cca](https://github.com/user-attachments/assets/f2c11769-cf11-4f56-b477-5ef97a37de7f)
+
+<div align="center">
+	
+<h1>Projetinho Full stack com Angular, Java e Spring</h1>
+
+hoje foi so aplicação back-end com java e fiz ja entegração com front-end.
+
+</div>
+
+<div align="center">
+	
+![Screenshot_1](https://github.com/user-attachments/assets/41db80ec-683b-476e-9d43-d64b1175238a)
+
+![Screenshot_2](https://github.com/user-attachments/assets/7813e92b-a927-4e3d-a37a-243b0a44a6c5)
+
+![Screenshot_3](https://github.com/user-attachments/assets/141f4e7b-457a-44ce-a6dc-1f94d9a7c3a6)
+
+![Screenshot_4](https://github.com/user-attachments/assets/6b007873-4d8c-479e-b70b-a6a992cf0b4d)
+
+![Screenshot_11](https://github.com/user-attachments/assets/34999fe7-9baf-4734-98ed-dfc090e2077c)
+
+![Screenshot_5](https://github.com/user-attachments/assets/fb90459f-991a-439b-8a53-9c4f98a8b016)
+
+![Screenshot_6](https://github.com/user-attachments/assets/86e10929-9328-4e7d-8b6c-60031878e46a)
+
+![Screenshot_7](https://github.com/user-attachments/assets/f615755e-9d55-493d-aac0-6428c57d3c6d)
+
+![Screenshot_8](https://github.com/user-attachments/assets/35f23e14-2762-40bc-ba0a-d201fc8424d0)
+
+![Screenshot_9](https://github.com/user-attachments/assets/adb12233-5e2a-4c52-956a-e956def722fb)
+
+![Screenshot_10](https://github.com/user-attachments/assets/e38f92d5-eccc-407a-b3a3-db176c965b1f)
+
+![Screenshot_12](https://github.com/user-attachments/assets/a0ca00c6-788e-4561-926f-ad9fe9a56cae)
+
+![Screenshot_13](https://github.com/user-attachments/assets/7ea0f6d5-8515-449c-af66-91952c435231)
+
+![Screenshot_14](https://github.com/user-attachments/assets/a56531f7-23c4-4bf7-8a63-81c2e7a6740b)
+
+O que fiz Hoje:
+
+![Screenshot_15](https://github.com/user-attachments/assets/95f3cc09-a5f9-424c-bf40-1fcf8f3ed1f1)
+
+</div>
 
